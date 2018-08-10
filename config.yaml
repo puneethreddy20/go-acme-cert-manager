@@ -1,0 +1,5 @@
+http_address: "localhost:8080"
+
+Certdirectory: "certs"
+
+CertRenewAfterMin: 2
